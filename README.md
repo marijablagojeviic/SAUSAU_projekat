@@ -33,7 +33,7 @@ Potrebni fajlovi:
 - `weather_train.csv`
 
 ## 📁 Struktura projekta
-
+```
 ml-projekat/
 ├── data/
 │   ├── raw/                         # Sirovi podaci
@@ -52,7 +52,7 @@ ml-projekat/
 ├── requirements.txt                 # Python zavisnosti
 ├── README.md                        # Dokumentacija
 └── .gitignore                       # Ignorisani fajlovi
-
+```
 ---
 
 ## 🧹 1. Početno preprocesiranje podataka
