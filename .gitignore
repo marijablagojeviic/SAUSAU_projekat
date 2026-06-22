@@ -1,6 +1,9 @@
 #data
 data/
 
+#prevelik fajl
+models/dt_model.pkl
+
 # Python
 __pycache__/
 *.pyc
