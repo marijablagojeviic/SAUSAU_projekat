@@ -1,3 +1,6 @@
+#data
+data/
+
 # Python
 __pycache__/
 *.pyc
@@ -18,8 +21,6 @@ env/
 # Large data files (NE možeš ih uploadovati na GitHub)
 *.csv
 *.npy
-*.pkl
-*.joblib
 *.json
 
 # IDE
